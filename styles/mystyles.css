@@ -1,0 +1,32 @@
+.photoCollage{
+    padding: 3%;
+    width: 500px;
+}
+
+
+p.aboutMeText{
+    font-style: italic;
+}
+
+p{
+    font-weight: 800;
+}
+
+h3{
+    font-weight:500;
+    font-style:italic;
+}
+
+.myResumeHeader{
+    font-weight:800;
+    font-style:normal;
+}
+
+h5{
+    font-weight:700;
+    font-style:italic;
+}
+
+.customCenter{
+    text-align: center;
+}
